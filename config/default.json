@@ -1,0 +1,11 @@
+{
+  "mode": "lambda",
+  "auth": {
+    "expiresIn": "1d"
+  },
+  "database": {
+    "conduit": {
+      "port": "3306"
+    }
+  }
+}
